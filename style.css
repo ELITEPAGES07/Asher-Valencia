@@ -247,7 +247,7 @@ h4 {
     }
 
     .img-1 {
-        margin-left: 0px;
+        margin-left: 10px;
         width: 350px;
         height: 75px;
     }
@@ -334,9 +334,9 @@ h4 {
     }
 
     .img-7 {
-        width: 150px;
-        height: 150px;
-        margin-left: 100px;
+        width: 125px;
+        height: 125px;
+        margin-left: 125px;
         margin-right: 0px;
     }
 }
